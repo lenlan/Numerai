@@ -1,0 +1,2 @@
+# Numerai
+ Data Science Competition
